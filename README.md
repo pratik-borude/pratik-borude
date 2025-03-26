@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-borude&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-borude" /> </p>
 
-- 📫 How to reach me **pratik.borude.1994@gmail.com / +44 7979 436678**
+- 📫 How to reach me: **pratik.borude.1994@gmail.com / +44 7979 436678**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
